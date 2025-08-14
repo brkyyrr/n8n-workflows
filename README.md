@@ -49,4 +49,6 @@ Merhaba, Telegram üzerinden göndereceğiniz metin ve ses kayıtlarını anlaya
 ## 🎯 Sonuç
 Bu çalışma ile Telegram üzerinden gelen metin ve sesleri işleyen, Gmail entegrasyonu ile mail gönderip alabilen bir AI Agent geliştirmiş olduk.
 
+Ayrıca daha ayrıntılı bilgi için [buraya](https://www.linkedin.com/pulse/n8n-ile-otomasyon-ve-yapay-zeka-rehberi-telegram-ai-agent-yurur-xdnaf/?trackingId=kUnKdF2rskF2GPMG9l%2F%2ByA%3D%3D) bakabilirsiniz.
+
 İzlediğiniz için teşekkürler.
