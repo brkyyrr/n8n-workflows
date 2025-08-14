@@ -3,7 +3,7 @@
 Merhaba, Telegram üzerinden göndereceğiniz metin ve ses kayıtlarını anlayan, size cevap verebilen ve maillerinizi kontrol ederek mail göndermenizi sağlayan bir **AI Agent** kurgusu oluşturacağız.
 
 
-## 🔹 Adım Adım Anlatım
+## 🔹 Geliştirme Aşamaları
 
 1. **Trigger Ekleme**  
    Telegram’dan mesaj bilgisini almak için bir **Trigger** ekliyorum.  
@@ -49,4 +49,4 @@ Bu çalışma ile Telegram üzerinden gelen metin ve sesleri işleyen, Gmail ent
 
 Ayrıca daha ayrıntılı bilgi için [buraya](https://www.linkedin.com/pulse/n8n-ile-otomasyon-ve-yapay-zeka-rehberi-telegram-ai-agent-yurur-xdnaf/?trackingId=kUnKdF2rskF2GPMG9l%2F%2ByA%3D%3D) bakabilirsiniz.
 
-İzlediğiniz için teşekkürler.
+Teşekkürler, 
