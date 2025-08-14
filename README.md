@@ -1,7 +1,5 @@
 # AI Agent ile Telegram, Ses ve Gmail Entegrasyonu
 
-## 📄 Düzeltilmiş Anlatım Metni
-
 Merhaba, Telegram üzerinden göndereceğiniz metin ve ses kayıtlarını anlayan, size cevap verebilen ve maillerinizi kontrol ederek mail göndermenizi sağlayan bir **AI Agent** kurgusu oluşturacağız.
 
 
